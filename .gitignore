@@ -1,8 +1,5 @@
-.vscode
-.idea
-coverage
-dist
-node_modules
-npm-debug.log
-yarn.lock
-package-lock.json
+/dist
+/logs
+/npm-debug.log
+/node_modules
+.DS_Store
